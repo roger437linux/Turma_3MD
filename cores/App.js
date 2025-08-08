@@ -19,7 +19,7 @@ export default function App() {
           <Image source={require('./src/assets/bird3.png')} resizeMode='center' style={{ flex: .5 }} />
         </View>
         <View style={styles.area4}>
-          <Image source={require('./src/assets/bird4.png')} resizeMode='center' style={{ flex: .6 }} />
+          <Image source={require('./src/assets/bird4.png')} resizeMode='center' style={{ flex: .5 }} />
         </View>
       </View>
 
